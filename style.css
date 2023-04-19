@@ -4,10 +4,6 @@ body, html {
     font: 400 15px/1.8 "Lato", sans-serif;
     color: #777;
     background-image: url(echi_3.jpg);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
   }
 .hello {font-family: 'PT Serif', serif;}
 .warna-1{background-color: #929AAB;}
@@ -38,6 +34,10 @@ header h3 span{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 .bgimg-1 {
   background-image: url("echi_3.jpg");
