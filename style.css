@@ -140,7 +140,6 @@ header h3 span{
   transition: 0.5s;
 }
 /* \untuk header section */
-.header-section p{
-    display: none;
-}
 .header-section p:hover{display: block;}
+
+.img-container{height: 100px; overflow: hidden;}
